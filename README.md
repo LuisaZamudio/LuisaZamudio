@@ -7,7 +7,7 @@ from which future planetary systems can develop. Much of my work has been focuse
 T-Tauri stars using astrometric and mid-infrared photometric data.
 
 - I’m currently learning how to use git and GitHub and would appreciate any tips regarding my introductory projects.
-- You can reach me with the next email: luisa.zamudio@uabc.edu.mx
+- You can reach me by email: luisa.zamudio@uabc.edu.mx
 
 <!---
 LuisaZamudio/LuisaZamudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
